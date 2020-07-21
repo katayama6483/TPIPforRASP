@@ -1,0 +1,17 @@
+// TPIP3 config file
+$SEN_SET, 9FFF // Sensor enable bit 
+$COM_OFF, 0002 // 通信OFF時の設定　
+$PWM_MODE, 0000
+$CONNECT_TYPE, 0
+$CBOARD_NUM, 1
+$COM_SPEED, 115200
+$SEN_SET@2, 9FFF // Sensor enable bit 
+$COM_OFF@2, 0002 // 通信OFF時の設定　
+$PWM_MODE@2, 0000
+$SEN_SET@3, 9FFF // Sensor enable bit 
+$COM_OFF@3, 0002 // 通信OFF時の設定　
+$PWM_MODE@3, 0000
+$SEN_SET@4, 9FFF // Sensor enable bit 
+$COM_OFF@4, 0002 // 通信OFF時の設定　
+$PWM_MODE@4, 0000
+$MULTI_CAM, 09   // マルチ・カメラ有効ch指定
